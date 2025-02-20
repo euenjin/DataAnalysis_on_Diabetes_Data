@@ -1,5 +1,5 @@
 # Data-Analysis
-Data Analysis on diabetes Data during my research intern opportunity at Gachon University
+Data Analysis on Diabetes Data during my research intern opportunity at Gachon University
 
 
 ## Main Purpose
