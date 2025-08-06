@@ -22,4 +22,4 @@ Diabetes is one of the most prevalent chronic diseases in the United States. It 
 -	By expanding the size of the dataset, the result of the study can become more accurate.
 
 ### Privacy
-This dataset is an open dataset that is already cleaned by Alex and can be found in this source: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset.
+This dataset is an open dataset, cleaned by Alex, available at the following source: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset.
