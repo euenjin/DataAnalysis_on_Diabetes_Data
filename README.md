@@ -20,3 +20,6 @@ Diabetes is one of the most prevalent chronic diseases in the United States. It 
 -	People who have high BP and high Chol are likely to have diabetes.
 -	People who consume veggies and have high income are less likely to have diabetes.
 -	By expanding the size of the dataset, the result of the study can become more accurate.
+
+### Privacy
+This dataset is an open dataset that is already cleaned by Alex and can be found in this source: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset.
