@@ -16,7 +16,7 @@ Diabetes is one of the most prevalent chronic diseases in the United States. It 
 -	Developed bar charts to display Logistic Regression coefficients, highlighting significant factors like High Blood Pressure and Cholesterol Checks
 -	Used a Multi-Layer Perceptron (MLP) Classifier to evaluate the model’s performance, achieving a precision of 0.76 and recall of 0.73.
   
-#### Conclusion
+### Conclusion
 -	People who have high BP and high Chol are likely to have diabetes.
 -	People who consume veggies and have high income are less likely to have diabetes.
 -	By expanding the size of the dataset, the result of the study can become more accurate.
