@@ -2,7 +2,7 @@
 Data Analysis on Diabetes Data during my research intern opportunity at Gachon University
 
 
-### Main Purpose
+### Motivation
 
 Diabetes is one of the most prevalent chronic diseases in the United States. It influences millions of Americans each year, making people lose the ability to regulate glucose in the blood. This factor ultimately reduces a person’s quality of life and life expectancy. Thus, it motivates me to explore data to find the most important factor that causes diabetes.
 
